@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SUNloasi20080218
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me sunlaosi20080218@foxmail.com
 
 <!---
